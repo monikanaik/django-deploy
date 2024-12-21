@@ -19,7 +19,6 @@ from django.urls import path, include
 from rest_framework.routers import DefaultRouter
 from book.views import BookViewSet
 from django.conf.urls.static import static
-from django.conf.urls.static import static
 from django.conf import settings
 
 router = DefaultRouter()
