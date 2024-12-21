@@ -5,6 +5,7 @@ DS_Store
 docker-compose2.yml
 staticfiles/
 k
+db.sqlite3/
 .cache
 *.pyc
 *.pyo
